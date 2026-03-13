@@ -9,7 +9,7 @@
     "ip": "schooljmps.aternos.me",
     "port": 13509,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
